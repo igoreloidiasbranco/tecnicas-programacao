@@ -7,7 +7,6 @@ import br.com.ada.t1322.tecnicasprogramacao.projeto.service.TaskServiceFactory;
 import br.com.ada.t1322.tecnicasprogramacao.projeto.view.ConsoleApp;
 import br.com.ada.t1322.tecnicasprogramacao.projeto.view.ConsoleView;
 import br.com.ada.t1322.tecnicasprogramacao.projeto.view.View;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
